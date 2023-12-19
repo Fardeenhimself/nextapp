@@ -1,0 +1,15 @@
+<!--  //From hero of about -->
+
+            <!-- {/* <section className="relative w-full h-screen flex flex-col justify-center items-center snap-start">
+                <Image
+                className="fixed top-0 left-0 w-full h-full object-cover object-center"
+                width={1000}
+                height={1000}
+                loading='lazy'
+                alt='landpage'
+                src={"/images/revl.jpg"}
+                
+                
+                />
+
+            </section> */} -->
