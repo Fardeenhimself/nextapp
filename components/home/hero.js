@@ -22,7 +22,7 @@ const Hero = () => {
                     />
                     <TypeAnimation
                         sequence={[
-                            '      AVENTADOR S',
+                            '    AVENTADOR S',
                             3000
                         ]}
                         wrapper="p"

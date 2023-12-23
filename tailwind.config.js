@@ -7,9 +7,7 @@ module.exports = {
         primary: '#7867ED',
         light: '#F3FAFF'
       },
-      fontFamily: {
-        custom: ['Roboto', 'sans-serif'], // Add the custom font family
-      },
+      
     }
   },
   plugins: [],
